@@ -1,0 +1,14 @@
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\bin\Debug\net8.0\cli_game.exe
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\bin\Debug\net8.0\cli_game.deps.json
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\bin\Debug\net8.0\cli_game.runtimeconfig.json
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\bin\Debug\net8.0\cli_game.dll
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\bin\Debug\net8.0\cli_game.pdb
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.AssemblyInfoInputs.cache
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.AssemblyInfo.cs
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.csproj.CoreCompileInputs.cache
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.dll
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\refint\cli_game.dll
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.pdb
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\cli_game.genruntimeconfig.cache
+c:\Users\leont\OneDrive\Documents\GitHub\C#\getting started\CLI_GAME\obj\Debug\net8.0\ref\cli_game.dll
