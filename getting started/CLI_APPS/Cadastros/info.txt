@@ -1,0 +1,4 @@
+Programa de cadastro e gerenciamento
+- menu pricipal
+-- Gerenciamentos de cadastros
+-- Ajuda/Info

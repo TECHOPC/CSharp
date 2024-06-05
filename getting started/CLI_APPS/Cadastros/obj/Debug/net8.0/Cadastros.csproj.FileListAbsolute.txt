@@ -1,0 +1,15 @@
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\bin\Debug\net8.0\Cadastros.exe
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\bin\Debug\net8.0\Cadastros.deps.json
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\bin\Debug\net8.0\Cadastros.runtimeconfig.json
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\bin\Debug\net8.0\Cadastros.dll
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\bin\Debug\net8.0\Cadastros.pdb
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.AssemblyInfoInputs.cache
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.AssemblyInfo.cs
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.csproj.CoreCompileInputs.cache
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.sourcelink.json
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.dll
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\refint\Cadastros.dll
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.pdb
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\Cadastros.genruntimeconfig.cache
+C:\Users\leont\OneDrive\Documents\GitHub\CSharp\getting started\CLI_APPS\Cadastros\obj\Debug\net8.0\ref\Cadastros.dll
